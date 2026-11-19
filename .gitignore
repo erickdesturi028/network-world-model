@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Large datasets and local logs (Keep processed sample weights if needed)
+data/raw/*
+!data/raw/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
