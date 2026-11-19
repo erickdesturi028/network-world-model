@@ -1,4 +1,3 @@
-Here is a clean, complete, and submission-ready `README.md` tailored directly to your project structure, scripts, and offline execution workflow. You can copy and paste the entire block below into your `README.md` file:
 
 ```markdown
 # 🛡️ Predictive Network World Model for CII Infrastructure
@@ -129,11 +128,3 @@ python src/models/evaluate.py
 
 ```
 
-### Next Steps to Update GitHub
-Once you paste and save this into `README.md`, push the update to your GitHub repository:
-```bash
-git add README.md
-git commit -m "Docs: Add comprehensive README with architecture and run commands"
-git push
-
-```
